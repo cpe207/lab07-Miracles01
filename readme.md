@@ -4,4 +4,4 @@
 
 [คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/ERpfYTdv7iJChl3JzmIcrPMB7OgzuVC55PP03wk1A6AIMQ?e=gYviYZ)
 
-GitHub Page URL :http://127.0.0.1:5500/index.html
+GitHub Page URL : https://cpe207.github.io/lab07-Miracles01/
